@@ -6,3 +6,4 @@ asdfasdfasdf
 asdfasdfasdf
 
 lkjhadsflkjhasdf
+Can jenkins automatically update or I must click build?
